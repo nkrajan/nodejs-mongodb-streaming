@@ -7,12 +7,12 @@
     , "jade": ">= 0.0.1"
     , "mongoose": "2.4.1"
     , "mongodb": ">=*"
-    , "request": "2.9.3"
+    , "request": "2.9.3",
+    "gridfstore":"latest"
   }
   , "devDependencies":{
       "mongoose": "2.4.1"
     , "should" : "0.3.x"
     , "mocha"  : ">=0.7.0"
-    , "buffertools"  : "1.0.6"
   }
 }
